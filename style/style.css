@@ -1,0 +1,22 @@
+/*esta parte es del index */
+ul li{
+    display: inline-block;
+    padding: 0px 20px 0px 20px;
+}
+.navegador{
+    display: flex;
+    justify-content:space-around;
+    padding: 3px;
+    align-items: center;
+    background-color: rgb(188, 186, 198);
+}
+
+
+/*parte de la pagina 2 */
+
+
+
+
+
+
+/* parte de la pagina 3*/
